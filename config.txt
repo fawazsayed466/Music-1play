@@ -1,6 +1,6 @@
 token=TOKEN
 owner=513666662004686848
 prefix=1
-game=Silver Community / 1play
+game=Silver Community 1play
 stayinchannel=true
 songinstatus=true
